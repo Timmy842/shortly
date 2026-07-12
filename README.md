@@ -2,6 +2,8 @@
 
 Acortador de URLs con analíticas.
 
+📋 **[Hoja de ruta completa](docs/HOJA_DE_RUTA.md)** — Arquitectura DDD (Laravel) + Angular 22 con buenas prácticas.
+
 - **Backend**: Laravel 12 (API)
 - **Frontend**: Angular 22
 - **Infra**: Docker Compose (Nginx + PHP-FPM + MySQL + Angular dev server)
